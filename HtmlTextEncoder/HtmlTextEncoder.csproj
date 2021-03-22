@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+		<Description>HTML として出力される日本語が実態参照(数値文字参照)にならないようにするサンプルです。</Description>
+		<Company>ソーサリーフォース (https://sorceryforce.net/)</Company>
+		<Authors>おのでら (ソーサリーフォース)</Authors>
+		<Copyright>Copyright (C) 2021 おのでら</Copyright>
+	</PropertyGroup>
+
+</Project>
